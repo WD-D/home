@@ -13,12 +13,11 @@
 	padding: 15rem 6rem;
 }
 
-div.container{
-	z-index: 4;
-	margin-bottom: 50rem;
+table{
+	position: absolute;
+	top: 500px;
+	padding: 5px;
 }
-
-
 
 .project-name{
 	font-size: 4em;
