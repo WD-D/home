@@ -6,9 +6,11 @@
   margin-bottom: 0;
 }
 
-.page-header{
-	padding: 15rem 6rem;
+div.page-header{
+	margin-bottom: 2%;
 	position: fixed;
+	width: 100%;
+	padding: 15rem 6rem;
 }
 
 
@@ -22,5 +24,6 @@
 }
 
 .main-content{
+	padding-top: 50rem;
 	font-size: 2.0rem;
 }
