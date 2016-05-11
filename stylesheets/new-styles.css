@@ -6,11 +6,16 @@
   margin-bottom: 0;
 }
 
-div.page-header{
+.page-header{
 	margin-bottom: 2%;
 	position: fixed;
 	width: 100%;
 	padding: 15rem 6rem;
+}
+
+div.container{
+	z-index: 4;
+	margin-bottom: 50rem;
 }
 
 
